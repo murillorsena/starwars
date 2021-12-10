@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Star Wars</string>
+    <string name="enter">ENTRAR</string>
+    <string name="criarconta">Crie sua conta STAR WARS</string>
+    <string name="grupo">By Grupo1 ADS</string>
+    <string name="nome">Nome</string>
+    <string name="confsenha">Confirme Senha</string>
+    <string name="cadastro">CADASTRAR</string>
+    <string name="bemvindo">SEJA BEM VINDO</string>
+    <string name="sair">DESLOGAR</string>
+    <string name="api">CONSULTA API</string>
+    <string name="cadastroAPI">CADASTRO API</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_principal_drawer_nav">PrincipalDrawerNav</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_extras">--- Extras GRUPO1 ADS ---</string>
+    <string name="menu_sair_app">--- Sair APP ---</string>
+
+
+    <string name="menu_principal">Principal</string>
+    <string name="menu_cadastro">Cadastro API</string>
+    <string name="menu_consulta">Consulta API</string>
+    <string name="menu_filmes">Lista Filmes</string>
+    <string name="menu_avatares">Lista Avatares</string>
+    <string name="menu_trailer">Filme e Musica</string>
+
+
+    <string name="menu_desenvolvimento">Desenvolvimento</string>
+    <string name="menu_agradecimento">Agradecimento</string>
+    <string name="menu_contato">Contato</string>
+    <string name="menu_sair">SAIR</string>
+
+    <string name="saudacao">Seja bem vindo! Que a força esteja com você.</string>
+    <string name="yoda">“Você deve desaprender o que aprendeu!” Autor. Mestre Yoda</string>
+    <string name="resumo">Ficção científica? Não! Star wars é uma história de fantasia que engloba elementos batidos na literatura e no cinema, como romance, drama, humor e luta entre bem e mal. O centro da trama é uma disputa política entre um império tirano e ditatorial e um grupo libertário. O enredo é permeado pela tragédia pessoal de Anakin Skywalker, um jedi (do bem) que sucumbe ao Lado Sombrio da Força (do mal) se transformando no vilão Darth Vader, que é um dos líderes do Império Galático.</string>
+    <string name="agradecimentoprof">  MUITO OBRIGADO PROFESSOR POR TUDO QUE FOI ENSINADO! </string>
+    <string name="curso">Analise e Desenvolvimento de Sistemas</string>
+    <string name="professor">Professor: Jean Paul</string>
+    <string name="cadeira">DISPOSITIVOS MÓVEIS</string>
+    <string name="grupo1">GRUPO 1</string>
+    <string name="title_activity_apis_navgation">ApisNavgationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>

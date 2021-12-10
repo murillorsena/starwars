@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.starwars">
+<uses-permission android:name="android.permission.INTERNET"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.StarWars">
+        <activity
+            android:name=".activityview.ConsultaApi"
+            android:exported="false" />
+        <activity
+            android:name=".activityview.SairActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activityview.NavesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activityview.PlanetaActivity"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.google.android.actions"
+            android:resource="@xml/activity_people" />
+
+        <activity
+            android:name=".activityview.PlayerVideo"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".activityview.FilmeMusica"
+            android:exported="false" />
+        <activity
+            android:name=".activityview.StarAvatar"
+            android:exported="false" />
+        <activity
+            android:name=".PrincipalDrawerNav"
+            android:exported="false"
+            android:label="@string/title_activity_principal_drawer_nav"
+            android:theme="@style/Theme.StarWars.NoActionBar" />
+        <activity
+            android:name=".activityview.CardViewFilmes"
+            android:exported="false" />
+        <activity
+            android:name=".activityview.PersonagemActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activityview.StarResultCadastroApi"
+            android:exported="true" />
+        <activity
+            android:name=".activityview.CadastroApi"
+            android:exported="true" />
+        <activity
+            android:name=".activityview.ApisJsonActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activityview.StarCadastro"
+            android:exported="true" />
+        <activity
+            android:name=".activityview.MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activityview.StarLogin"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
